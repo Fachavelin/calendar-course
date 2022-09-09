@@ -6,7 +6,7 @@ export const Navbar = () => {
         Alexander
       </span>
       <button className='btn btn-outline-danger'>
-        <i class='fa-solid fa-right-from-bracket me-2'></i>
+        <i className='fa-solid fa-right-from-bracket me-2'></i>
         <span>Salir</span>
       </button>
     </div>
